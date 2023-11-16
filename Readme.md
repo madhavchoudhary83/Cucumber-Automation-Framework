@@ -107,7 +107,7 @@ For All projects : mvn test "-DargLine=-Dcucumber.filter.tags='@regression'"
 - Execute specific feature(s) for a project :
 1. For CP project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/'"
 2. For DP2 project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/dp2_features/'"
-3. For CP project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features'"
+3. For all projects  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features'"
 
 - Execute tests based on combination of specfic feature folder/file and tags :
  1. mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/' -Dcucumber.filter.tags='@shop'"
