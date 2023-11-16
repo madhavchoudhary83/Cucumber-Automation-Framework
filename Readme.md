@@ -102,7 +102,7 @@ Test Execution via CLI (Examples) :
 - Execute tests based on tags :
 For CP project  : mvn test "-DargLine=-Dcucumber.filter.tags='@cp'"
 For DP2 project : mvn test "-DargLine=-Dcucumber.filter.tags='@dp2'"
-For all project : mvn test "-DargLine=-Dcucumber.filter.tags='@regression'"
+For All projects : mvn test "-DargLine=-Dcucumber.filter.tags='@regression'"
 
 - Execute specific feature(s) for a project :
 1. For CP project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/'"
