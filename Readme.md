@@ -105,19 +105,19 @@ For DP2 project : mvn test "-DargLine=-Dcucumber.filter.tags='@dp2'"
 For all project : mvn test "-DargLine=-Dcucumber.filter.tags='@regression'"
 
 - Execute specific feature(s) for a project :
-For CP project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/'"
-For DP2 project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/dp2_features/'"
-For CP project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features'"
+1. For CP project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/'"
+2. For DP2 project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/dp2_features/'"
+3. For CP project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features'"
 
 - Execute tests based on combination of specfic feature folder/file and tags :
- mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/' -Dcucumber.filter.tags='@shop'"
- mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/' -Dcucumber.filter.tags='@regression'"
+ 1. mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/' -Dcucumber.filter.tags='@shop'"
+ 2. mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/' -Dcucumber.filter.tags='@regression'"
 
 - Execute tests based on feature and thread pool size (for parallel execution)
-mvn test "-DargLine=-Dcucumber.features='src/test/resources/features' -Ddataproviderthreadcount='2'"
+1. mvn test "-DargLine=-Dcucumber.features='src/test/resources/features' -Ddataproviderthreadcount='2'"
 
 - Execute tests based on specific browser
- mvn test "-DargLine=-Dcucumber.features='src/test/resources/features' -Ddataproviderthreadcount='2' -DbrowserType='edge'"
+1. mvn test "-DargLine=-Dcucumber.features='src/test/resources/features' -Ddataproviderthreadcount='2' -DbrowserType='edge'"
  
  
  Instructions for attaching scenarios specific test output files:
