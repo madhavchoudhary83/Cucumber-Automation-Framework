@@ -27,50 +27,50 @@ Pre-Requisites:
 
 Framework Brief Overview :
 --------------------------
-- Resuable methods consuming webdriver instance and for page elements initialization. To be inherited across page objects and test steps
+- Resuable methods consuming webdriver instance and for page elements initialization. To be inherited across page objects and test steps: 
 /src/main/java/base
 
-- Create or Destroy Webdriver instance, Handle browser specific capabilities/options
+- Create or Destroy Webdriver instance, Handle browser specific capabilities/options: 
 /src/main/java/driver
 
-- Maintain framework level constants/enums
+- Maintain framework level constants/enums: 
 /src/main/java/constants
 
-- Create utitilies code (common code resuable across projects/framework)
+- Create utitilies code (common code resuable across projects/framework): 
 /src/main/java/utils
 
-- Create Page Objects and Page Actions under project specific folders
+- Create Page Objects and Page Actions under project specific folders: 
 /src/test/java/pageobjects
 
-- Maintain test steps related code under project specifc folder
+- Maintain test steps related code under project specifc folder: 
 /src/test/java/stepDefinitions
 
-- Cucumber Runner & TestNg.xml : To control test execution based on features, tags
+- Cucumber Runner & TestNg.xml : To control test execution based on features, tags: 
 /src/test/java/runners/
 
 *Cucumber runner - For manual execution via IDE
 *Testng.xml - Drives Cucumber Runner. Consumed for triggering test for Manual/CLI/Jenkins executions
 
-- Maintain feature files under project specifc folders
+- Maintain feature files under project specifc folders: 
 /src/test/resources/features
 
-- Maintain configuration properties
+- Maintain configuration properties: 
 /src/test/resources/properties
 * Used to set browser for execution of tests
 
-- Maintain test data for validations
+- Maintain test data for validations: 
 /src/test/resources/testData
 
-- To store the executions results
+- To store the executions results: 
 /ExtentReports
 
-- To maintain test output data, executions logs, etc.
+- To maintain test output data, executions logs, etc.: 
 /target
 
-- To store temp data required during test executions for processing
+- To store temp data required during test executions for processing: 
 /test_output
 
-- To maintain all project dependencies
+- To maintain all project dependencies: 
 /pom.xml
 
 
