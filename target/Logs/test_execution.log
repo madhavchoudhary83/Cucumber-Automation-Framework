@@ -1,0 +1,220 @@
+2023-11-16 17:14:51.563 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.handleDialogOnPageLoad(CP_HomePage_PO.java:46)] - Closing dialog prompt.
+2023-11-16 17:14:51.575 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:14:51.582 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.handleDialogOnPageLoad(CP_HomePage_PO.java:46)] - Closing dialog prompt.
+2023-11-16 17:14:51.590 DEBUG [TestNG-PoolService-0] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:14:51.917 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:14:52.013 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:14:57.272 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:14:57.313 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.expand_SecondaryMenu(CP_HomePage_PO.java:52)] - Expanding secondary menu to select options.
+2023-11-16 17:14:57.313 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 17:14:57.314 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:14:57.575 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.select_NewsAndFeatures_FromSecondaryMenu(CP_HomePage_PO.java:57)] - Selecting 'News & Features' from secondary menu.
+2023-11-16 17:14:57.604 DEBUG [TestNG-PoolService-0] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:15:00.162 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:15:00.194 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.expand_PrimaryMenu_Shop(CP_HomePage_PO.java:68)] - Expanding primary menu to select options.
+2023-11-16 17:15:00.195 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 17:15:00.195 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:15:00.401 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.select_Mens_From_ShopMenu(CP_HomePage_PO.java:73)] - Selecting 'Mens' from Shop menu.
+2023-11-16 17:15:00.470 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:15:00.719 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.switchTo_Mens_Shopping_Window(CP_HomePage_PO.java:84)] - Navigating to 'Mens' shopping page
+2023-11-16 17:15:07.257 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.switchTo_Mens_Shopping_Window(CP_HomePage_PO.java:88)] - Navigated to 'Mens' shopping page
+2023-11-16 17:15:07.279 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 17:15:07.279 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:15:07.438 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:15:09.051 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:15:09.097 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:15:09.131 DEBUG [TestNG-PoolService-2] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 17:15:09.132 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:15:09.360 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:15:10.292 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.validate_NewsPage_Loaded(CP_NewsAndFeatures_PO.java:29)] - Checking if 'News & Features' is loaded !
+2023-11-16 17:15:10.294 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:15:10.404 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.moveTo_VideoFeeds_Section(CP_NewsAndFeatures_PO.java:35)] - Move to Videos feed section on New page.
+2023-11-16 17:15:10.404 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 17:15:10.405 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:15:10.887 DEBUG [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:45)] - [1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 2d, 2d, 3d]
+2023-11-16 17:15:10.916 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:47)] - Total Videos Feeds available on page : 23
+2023-11-16 17:15:10.918 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:49)] - Total Videos Feeds available on page which are older than 3 or more days : 1
+2023-11-16 17:15:14.155 DEBUG [TestNG-PoolService-2] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:15:18.139 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:15:23.333 INFO [TestNG-PoolService-2] [pageObjects.dp2_PO.DP2_HomePage_PO.processFooterLinksData(DP2_HomePage_PO.java:65)] - Following duplicate links found in the footer sections of Bulls home page :
+[List of Duplicate Links in Footer, https://www.nba.com/accessibility]
+2023-11-16 17:15:26.313 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:23:11.635 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.handleDialogOnPageLoad(CP_HomePage_PO.java:46)] - Closing dialog prompt.
+2023-11-16 17:23:11.639 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:23:11.759 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:12.880 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.handleDialogOnPageLoad(CP_HomePage_PO.java:46)] - Closing dialog prompt.
+2023-11-16 17:23:12.881 DEBUG [TestNG-PoolService-0] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:23:12.995 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:16.710 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:16.862 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.expand_PrimaryMenu_Shop(CP_HomePage_PO.java:68)] - Expanding primary menu to select options.
+2023-11-16 17:23:16.862 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 17:23:16.862 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:17.125 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.select_Mens_From_ShopMenu(CP_HomePage_PO.java:73)] - Selecting 'Mens' from Shop menu.
+2023-11-16 17:23:17.172 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:23:17.435 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.switchTo_Mens_Shopping_Window(CP_HomePage_PO.java:84)] - Navigating to 'Mens' shopping page
+2023-11-16 17:23:20.248 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:20.336 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.expand_SecondaryMenu(CP_HomePage_PO.java:52)] - Expanding secondary menu to select options.
+2023-11-16 17:23:20.338 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 17:23:20.339 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:20.524 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.select_NewsAndFeatures_FromSecondaryMenu(CP_HomePage_PO.java:57)] - Selecting 'News & Features' from secondary menu.
+2023-11-16 17:23:20.580 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.expand_SecondaryMenu(CP_HomePage_PO.java:52)] - Expanding secondary menu to select options.
+2023-11-16 17:23:20.580 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 17:23:20.580 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:25.863 DEBUG [TestNG-PoolService-0] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:23:30.716 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:30.765 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:30.794 DEBUG [TestNG-PoolService-2] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 17:23:30.794 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:30.991 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:38.570 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.switchTo_Mens_Shopping_Window(CP_HomePage_PO.java:88)] - Navigated to 'Mens' shopping page
+2023-11-16 17:23:38.590 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 17:23:38.590 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:38.751 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:23:49.054 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.validate_NewsPage_Loaded(CP_NewsAndFeatures_PO.java:29)] - Checking if 'News & Features' is loaded !
+2023-11-16 17:23:49.055 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:49.182 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.moveTo_VideoFeeds_Section(CP_NewsAndFeatures_PO.java:35)] - Move to Videos feed section on New page.
+2023-11-16 17:23:49.182 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 17:23:49.182 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 17:23:49.620 DEBUG [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:45)] - [1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 2d, 2d, 3d]
+2023-11-16 17:23:49.642 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:47)] - Total Videos Feeds available on page : 23
+2023-11-16 17:23:49.644 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:49)] - Total Videos Feeds available on page which are older than 3 or more days : 1
+2023-11-16 17:23:50.915 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 17:24:04.593 INFO [TestNG-PoolService-2] [pageObjects.dp2_PO.DP2_HomePage_PO.processFooterLinksData(DP2_HomePage_PO.java:65)] - Following duplicate links found in the footer sections of Bulls home page :
+[List of Duplicate Links in Footer, https://www.nba.com/accessibility]
+2023-11-16 17:24:04.730 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:25:34.826 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.handleDialogOnPageLoad(CP_HomePage_PO.java:46)] - Closing dialog prompt.
+2023-11-16 20:25:34.831 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:25:35.103 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:36.966 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.handleDialogOnPageLoad(CP_HomePage_PO.java:46)] - Closing dialog prompt.
+2023-11-16 20:25:36.967 DEBUG [TestNG-PoolService-0] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:25:37.358 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:38.637 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:38.693 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.expand_PrimaryMenu_Shop(CP_HomePage_PO.java:68)] - Expanding primary menu to select options.
+2023-11-16 20:25:38.694 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:25:38.694 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:38.910 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.select_Mens_From_ShopMenu(CP_HomePage_PO.java:73)] - Selecting 'Mens' from Shop menu.
+2023-11-16 20:25:38.968 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:25:39.159 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.switchTo_Mens_Shopping_Window(CP_HomePage_PO.java:84)] - Navigating to 'Mens' shopping page
+2023-11-16 20:25:43.217 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:43.257 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.expand_SecondaryMenu(CP_HomePage_PO.java:52)] - Expanding secondary menu to select options.
+2023-11-16 20:25:43.259 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:25:43.260 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:43.451 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.select_NewsAndFeatures_FromSecondaryMenu(CP_HomePage_PO.java:57)] - Selecting 'News & Features' from secondary menu.
+2023-11-16 20:25:43.570 DEBUG [TestNG-PoolService-0] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:25:45.960 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:46.280 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:46.410 DEBUG [TestNG-PoolService-2] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:25:46.410 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:46.874 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:47.895 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.validate_NewsPage_Loaded(CP_NewsAndFeatures_PO.java:29)] - Checking if 'News & Features' is loaded !
+2023-11-16 20:25:47.895 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:47.976 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.moveTo_VideoFeeds_Section(CP_NewsAndFeatures_PO.java:35)] - Move to Videos feed section on New page.
+2023-11-16 20:25:47.976 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:25:47.977 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:48.411 DEBUG [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:45)] - [1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 2d, 2d, 3d]
+2023-11-16 20:25:48.428 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:47)] - Total Videos Feeds available on page : 23
+2023-11-16 20:25:48.429 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:49)] - Total Videos Feeds available on page which are older than 3 or more days : 1
+2023-11-16 20:25:50.077 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.switchTo_Mens_Shopping_Window(CP_HomePage_PO.java:88)] - Navigated to 'Mens' shopping page
+2023-11-16 20:25:50.099 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:25:50.099 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:25:50.274 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:25:59.649 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:26:08.959 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:26:11.035 DEBUG [TestNG-PoolService-2] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:26:34.811 INFO [TestNG-PoolService-2] [pageObjects.dp2_PO.DP2_HomePage_PO.processFooterLinksData(DP2_HomePage_PO.java:65)] - Following duplicate links found in the footer sections of Bulls home page :
+[List of Duplicate Links in Footer, https://www.nba.com/accessibility]
+2023-11-16 20:31:42.265 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.handleDialogOnPageLoad(CP_HomePage_PO.java:46)] - Closing dialog prompt.
+2023-11-16 20:31:42.267 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:31:42.804 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:31:42.829 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:31:42.867 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.expand_PrimaryMenu_Shop(CP_HomePage_PO.java:68)] - Expanding primary menu to select options.
+2023-11-16 20:31:42.867 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:31:42.868 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:31:43.086 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.select_Mens_From_ShopMenu(CP_HomePage_PO.java:73)] - Selecting 'Mens' from Shop menu.
+2023-11-16 20:31:43.096 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:31:43.228 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.switchTo_Mens_Shopping_Window(CP_HomePage_PO.java:84)] - Navigating to 'Mens' shopping page
+2023-11-16 20:32:08.570 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:32:08.610 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:32:08.644 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:32:08.647 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:32:34.297 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.handleDialogOnPageLoad(CP_HomePage_PO.java:46)] - Closing dialog prompt.
+2023-11-16 20:32:34.301 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:32:34.554 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:32:35.427 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.handleDialogOnPageLoad(CP_HomePage_PO.java:46)] - Closing dialog prompt.
+2023-11-16 20:32:35.428 DEBUG [TestNG-PoolService-0] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:32:35.665 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:32:37.825 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:32:37.863 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.expand_SecondaryMenu(CP_HomePage_PO.java:52)] - Expanding secondary menu to select options.
+2023-11-16 20:32:37.863 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:32:37.865 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:32:38.188 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:32:38.256 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.expand_PrimaryMenu_Shop(CP_HomePage_PO.java:68)] - Expanding primary menu to select options.
+2023-11-16 20:32:38.256 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:32:38.257 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:32:38.805 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.select_Mens_From_ShopMenu(CP_HomePage_PO.java:73)] - Selecting 'Mens' from Shop menu.
+2023-11-16 20:32:39.077 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:32:39.530 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.switchTo_Mens_Shopping_Window(CP_HomePage_PO.java:84)] - Navigating to 'Mens' shopping page
+2023-11-16 20:32:40.580 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.select_NewsAndFeatures_FromSecondaryMenu(CP_HomePage_PO.java:57)] - Selecting 'News & Features' from secondary menu.
+2023-11-16 20:32:40.613 DEBUG [TestNG-PoolService-0] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:32:59.732 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.validate_NewsPage_Loaded(CP_NewsAndFeatures_PO.java:29)] - Checking if 'News & Features' is loaded !
+2023-11-16 20:32:59.732 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:32:59.788 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.moveTo_VideoFeeds_Section(CP_NewsAndFeatures_PO.java:35)] - Move to Videos feed section on New page.
+2023-11-16 20:32:59.788 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:32:59.788 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:33:00.623 DEBUG [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:45)] - [1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 2d, 2d, 3d]
+2023-11-16 20:33:00.689 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:47)] - Total Videos Feeds available on page : 23
+2023-11-16 20:33:00.691 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:49)] - Total Videos Feeds available on page which are older than 3 or more days : 1
+2023-11-16 20:33:01.218 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:33:01.218 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:33:01.387 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:33:12.218 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:33:25.809 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:33:39.127 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:33:39.163 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:33:39.198 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 20:33:39.198 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:33:39.394 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 20:33:39.423 DEBUG [TestNG-PoolService-0] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 20:33:47.128 INFO [TestNG-PoolService-0] [pageObjects.dp2_PO.DP2_HomePage_PO.processFooterLinksData(DP2_HomePage_PO.java:65)] - Following duplicate links found in the footer sections of Bulls home page :
+[List of Duplicate Links in Footer, https://www.nba.com/accessibility]
+2023-11-16 23:28:00.009 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.handleDialogOnPageLoad(CP_HomePage_PO.java:46)] - Closing dialog prompt.
+2023-11-16 23:28:00.018 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 23:28:00.415 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:01.131 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.handleDialogOnPageLoad(CP_HomePage_PO.java:46)] - Closing dialog prompt.
+2023-11-16 23:28:01.132 DEBUG [TestNG-PoolService-0] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 23:28:01.388 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:03.179 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:03.762 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:03.826 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.expand_PrimaryMenu_Shop(CP_HomePage_PO.java:68)] - Expanding primary menu to select options.
+2023-11-16 23:28:03.827 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 23:28:03.829 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:03.892 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:04.064 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.select_Mens_From_ShopMenu(CP_HomePage_PO.java:73)] - Selecting 'Mens' from Shop menu.
+2023-11-16 23:28:04.095 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 23:28:04.233 DEBUG [TestNG-PoolService-2] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 23:28:04.233 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:04.450 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.switchTo_Mens_Shopping_Window(CP_HomePage_PO.java:84)] - Navigating to 'Mens' shopping page
+2023-11-16 23:28:04.654 DEBUG [TestNG-PoolService-2] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:05.636 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:05.782 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.expand_SecondaryMenu(CP_HomePage_PO.java:52)] - Expanding secondary menu to select options.
+2023-11-16 23:28:05.784 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 23:28:05.785 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:06.087 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_HomePage_PO.select_NewsAndFeatures_FromSecondaryMenu(CP_HomePage_PO.java:57)] - Selecting 'News & Features' from secondary menu.
+2023-11-16 23:28:06.132 DEBUG [TestNG-PoolService-0] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 23:28:07.961 DEBUG [TestNG-PoolService-2] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 23:28:15.505 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.validate_NewsPage_Loaded(CP_NewsAndFeatures_PO.java:29)] - Checking if 'News & Features' is loaded !
+2023-11-16 23:28:15.506 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:15.584 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.moveTo_VideoFeeds_Section(CP_NewsAndFeatures_PO.java:35)] - Move to Videos feed section on New page.
+2023-11-16 23:28:15.585 DEBUG [TestNG-PoolService-0] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 23:28:15.585 DEBUG [TestNG-PoolService-0] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:16.103 DEBUG [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:45)] - [1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 1d, 2d, 2d, 3d]
+2023-11-16 23:28:16.118 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:47)] - Total Videos Feeds available on page : 23
+2023-11-16 23:28:16.121 INFO [TestNG-PoolService-0] [pageObjects.cp_PO.CP_NewsAndFeatures_PO.get_VideoFeeds_Details(CP_NewsAndFeatures_PO.java:49)] - Total Videos Feeds available on page which are older than 3 or more days : 1
+2023-11-16 23:28:17.921 INFO [TestNG-PoolService-1] [pageObjects.cp_PO.CP_HomePage_PO.switchTo_Mens_Shopping_Window(CP_HomePage_PO.java:88)] - Navigated to 'Mens' shopping page
+2023-11-16 23:28:17.938 DEBUG [TestNG-PoolService-1] [base.BasePage.moveToElement(BasePage.java:99)] - Moving over element
+2023-11-16 23:28:17.938 DEBUG [TestNG-PoolService-1] [base.BasePage.waitFor(BasePage.java:53)] - Waiting for element to be visible
+2023-11-16 23:28:17.994 INFO [TestNG-PoolService-2] [pageObjects.dp2_PO.DP2_HomePage_PO.processFooterLinksData(DP2_HomePage_PO.java:65)] - Following duplicate links found in the footer sections of Bulls home page :
+[List of Duplicate Links in Footer, https://www.nba.com/accessibility]
+2023-11-16 23:28:18.101 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 23:28:26.674 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click
+2023-11-16 23:28:33.720 DEBUG [TestNG-PoolService-1] [base.BasePage.waitForWebElementAndClick(BasePage.java:70)] - Waiting for element to appear and then click

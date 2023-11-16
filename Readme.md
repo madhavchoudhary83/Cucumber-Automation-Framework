@@ -120,7 +120,7 @@ mvn test "-DargLine=-Dcucumber.features='src/test/resources/features' -Ddataprov
  mvn test "-DargLine=-Dcucumber.features='src/test/resources/features' -Ddataproviderthreadcount='2' -DbrowserType='edge'"
  
  
- Instructions for attaching scenarios specifiv test output files:
+ Instructions for attaching scenarios specific test output files:
  -----------------------------------------------------------------
  - For any scenario level output file(s) to be attached in reports >> store result in file of any format under test_output
  - Use tag <@attachoutput> on the undelying scenario in corresponding feature file
