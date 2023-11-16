@@ -4,7 +4,7 @@ Feature: Warriors - Shop Menu
   Background:
     Given I navigate to warriors home page
 
-  @shop @@attachoutput
+  @shop @attachoutput
   Scenario: Validate jackets on men's page (TC#1)
     When I select Mens option from Shop menu
   #  And I find for Jacket using search bar
