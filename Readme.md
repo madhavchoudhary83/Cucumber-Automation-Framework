@@ -100,24 +100,24 @@ Test Execution via CLI (Examples) :
 - Open Terminal window on project root directory
 
 - Execute tests based on tags :
-For CP project  : mvn test "-DargLine=-Dcucumber.filter.tags='@cp'"
-For DP2 project : mvn test "-DargLine=-Dcucumber.filter.tags='@dp2'"
-For All projects : mvn test "-DargLine=-Dcucumber.filter.tags='@regression'"
+For CP project  : mvn clean test "-DargLine=-Dcucumber.filter.tags='@cp'"
+For DP2 project : mvn clean test "-DargLine=-Dcucumber.filter.tags='@dp2'"
+For All projects : mvn clean test "-DargLine=-Dcucumber.filter.tags='@regression'"
 
 - Execute specific feature(s) for a project :
-1. For CP project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/'"
-2. For DP2 project  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/dp2_features/'"
-3. For all projects  : mvn test "-DargLine=-Dcucumber.features='src/test/resources/features'"
+1. For CP project  : mvn clean test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/'"
+2. For DP2 project  : mvn clean test "-DargLine=-Dcucumber.features='src/test/resources/features/dp2_features/'"
+3. For all projects  : mvn clean test "-DargLine=-Dcucumber.features='src/test/resources/features'"
 
 - Execute tests based on combination of specfic feature folder/file and tags :
- 1. mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/' -Dcucumber.filter.tags='@shop'"
- 2. mvn test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/' -Dcucumber.filter.tags='@regression'"
+ 1. mvn clean test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/' -Dcucumber.filter.tags='@shop'"
+ 2. mvn clean test "-DargLine=-Dcucumber.features='src/test/resources/features/cp1_features/' -Dcucumber.filter.tags='@regression'"
 
 - Execute tests based on feature and thread pool size (for parallel execution)
-1. mvn test "-DargLine=-Dcucumber.features='src/test/resources/features' -Ddataproviderthreadcount='2'"
+1. mvn clean test "-DargLine=-Dcucumber.features='src/test/resources/features' -Ddataproviderthreadcount='2'"
 
 - Execute tests based on specific browser
-1. mvn test "-DargLine=-Dcucumber.features='src/test/resources/features' -Ddataproviderthreadcount='2' -DbrowserType='edge'"
+1. mvn clean test "-DargLine=-Dcucumber.features='src/test/resources/features' -Ddataproviderthreadcount='2' -DbrowserType='edge'"
  
  
  Instructions for attaching scenarios specific test output files:
