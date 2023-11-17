@@ -1,5 +1,5 @@
-target/*.*
-ExtentReports/*.*
+**/target/
+**/ExtentReports/
 
 
 ### IntelliJ IDEA ###
