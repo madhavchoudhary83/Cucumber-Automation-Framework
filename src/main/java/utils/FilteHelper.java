@@ -87,7 +87,9 @@ public class FilteHelper {
 
             fileArray = fileloc.listFiles();
             for (File f : fileArray) {
-                fileNames.add(f.getName());
+                if (! f.getName().contains("git")){
+                    fileNames.add(f.getName());
+                }
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -102,9 +104,11 @@ public class FilteHelper {
         List<String> files = getFileNameFromPath(sourcePath);
         try {
             for (String fileName : files) {
-                fileSourcePath = getAbsoulutePath(sourcePath) + fileName;
-                fileTargetPath = getAbsoulutePath(targetPath);
-                copyFile(fileSourcePath,fileTargetPath);
+                if (! fileName.contains("git")){
+                    fileSourcePath = getAbsoulutePath(sourcePath) + fileName;
+                    fileTargetPath = getAbsoulutePath(targetPath);
+                    copyFile(fileSourcePath,fileTargetPath);
+                }
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -144,13 +148,12 @@ public class FilteHelper {
     public static void deleteFile(String targetPath ){
         try {
             File targetFile = new File(targetPath);
-            FileUtils.deleteQuietly(targetFile);
+            if (! targetFile.getName().contains("git")){
+                FileUtils.deleteQuietly(targetFile);
+            }
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
-
-
-
 
 }
